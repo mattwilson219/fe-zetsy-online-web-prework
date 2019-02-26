@@ -67,6 +67,7 @@ header a:hover {
 }
 
 #featured a:hover {
+  transition: all 0.75s ease;
 	text-decoration: underline;
 }
 
