@@ -79,7 +79,7 @@ header a:hover {
 }
 
 #press img:hover {
-  
+  padding: 12px;
 	border: 5px rgb(111,127,122) solid;
 }
 
